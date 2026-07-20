@@ -12,6 +12,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidemariroboticsandautomation&show_icons=true&locale=en&layout=compact" alt="davidemariroboticsandautomation" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-stats-extended-nu.vercel.app/api?username=davidemariroboticsandautomation&show_icons=true&locale=en" alt="davidemariroboticsandautomation" /></p>
-
+<p align="center">
+  <img src="https://github-stats-extended-nu.vercel.app/api/top-langs?username=davidemariroboticsandautomation&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-stats-extended-nu.vercel.app/api?username=davidemariroboticsandautomation&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
+</p>
 
